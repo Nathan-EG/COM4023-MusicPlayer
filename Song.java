@@ -6,7 +6,7 @@ package com.neg.com4023;
 
 /**
  *
- * @author amstephenson
+ * @author nellis-greenwood
  * @version 2.0
  * @Purpose: class to manage a song
  */
