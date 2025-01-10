@@ -8,7 +8,7 @@ import java.util.Random;
 
 /**
  *
- * @author amstephenson
+ * @author nellis-greenwood
  */
 public class MusicList {
 
